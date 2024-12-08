@@ -4,7 +4,7 @@ I'm a student currently pursuing a Bachelor's degree in **Information Technology
 
 🛠️ **Skills & Tools**:  
 - **Programming**: Python, Java, C#, SQL  
-- **Web Development**: HTML, CSS, JavaScript, React  
+- **Web Development**: HTML, CSS, JavaScript 
 - **Business Tools**: Microsoft Excel
 - **Other Skills**: Project Management, Business Analysis, Communication  
 
