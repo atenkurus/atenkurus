@@ -29,10 +29,9 @@ A C# application that uses encryption algorithms to ensure secure file sharing a
 
 Find more in my [repositories](https://github.com/atenkurus?tab=repositories).  
 ## 📊 GitHub Stats  
-!(https://github.com/atenkurus/atenkurus.git)(https://github-readme-stats.vercel.app/api?yourname=atenkurus&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
-! Malay(https://github-readme-stats.vercel.app/api/top-langs/?yourname=atenkurus&layout=compact&theme=radical)  
-https://github.com/atenkurus/atenkurus.git
 ⚡ Fun Fact: I believe every business problem has a tech solution!  
 
 🚀 Open to collaboration on innovative projects that combine **IT and Business Management**.  
