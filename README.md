@@ -1,16 +1,15 @@
 ## Hi there 👋
+## 🚀 About Me  
+I'm a student currently pursuing a Bachelor's degree in **Information Technology with Business Management**. My interests span across software development, data analysis, and leveraging technology to optimize business processes.  
 
-<!--
-**atenkurus/atenkurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Skills & Tools**:  
+- **Programming**: Python, Java, C#, SQL  
+- **Web Development**: HTML, CSS, JavaScript, React  
+- **Business Tools**: Microsoft Excel
+- **Other Skills**: Project Management, Business Analysis, Communication  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **What I’m Learning**:  
+- Advanced Database Systems  
+- Cloud Computing  
+- Business Intelligence and Data Analytics  
+- Agile and Scrum Methodologies  
