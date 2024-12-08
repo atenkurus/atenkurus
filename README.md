@@ -2,7 +2,7 @@
 🎓 Bachelor of Information Technology with Business Management | Aspiring Tech and Business Enthusiast  
 
 🌱 I’m passionate about merging technology with business strategies to solve real-world problems.  
-📫 Let's connect: [Your LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:atenkurus@email.com)  
+📫 Let's connect: [(https://github.com/atenkurus/atenkurus.git)](https://linkedin.com/in/yourprofile) | [Email](mailto:atenkurus@email.com)  
 ## 🚀 About Me  
 I'm a student currently pursuing a Bachelor's degree in **Information Technology with Business Management**. My interests span across software development, data analysis, and leveraging technology to optimize business processes.  
 
@@ -29,7 +29,7 @@ A C# application that uses encryption algorithms to ensure secure file sharing a
 
 Find more in my [repositories](https://github.com/atenkurus?tab=repositories).  
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![[Your GitHub Stats](https://github.com/atenkurus/atenkurus.git)](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
 ⚡ Fun Fact: I believe every business problem has a tech solution!  
