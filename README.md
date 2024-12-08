@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! 
 🎓 Bachelor of Information Technology with Business Management | Aspiring Tech and Business Enthusiast  
 
 🌱 I’m passionate about merging technology with business strategies to solve real-world problems.  
@@ -29,8 +29,8 @@ A C# application that uses encryption algorithms to ensure secure file sharing a
 
 Find more in my [repositories](https://github.com/atenkurus?tab=repositories).  
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?atenkurus=atenkurus&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?atenkurus=atenkurus&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?yourname=atenkurus&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?yourname=atenkurus&layout=compact&theme=radical)  
 ⚡ Fun Fact: I believe every business problem has a tech solution!  
 
 🚀 Open to collaboration on innovative projects that combine **IT and Business Management**.  
